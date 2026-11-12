@@ -55,8 +55,18 @@ It combines anomaly detection, risk scoring, and AI-powered security explanation
    ```
 
 ## 📊 Application Preview
+### Main Dashboard
+![Main Dashboard](assets/dashboard.png)
 
-Screenshots of the application will be added here.
+### Risk Detection
+![Risk Detection 1](assets/risk-detection.png)
+![Risk Detection 2](assets/risk-detection(1).png)
+
+
+### AI Security Analysis
+![AI Security Analysis 1](assets/ai-analysis.png)
+![AI Security Analysis 2](assets/ai-analysis1.png)
+![AI Security Analysis 3](assets/ai-analysis2.png)
 
 ## 🔒 Security
 
