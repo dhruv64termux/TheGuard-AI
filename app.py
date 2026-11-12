@@ -196,10 +196,10 @@ def explain_risk(login_data, result):
     api_key = os.getenv("GROQ_API_KEY")
 
     if not api_key:
-        return (
-            "Groq API key not found. Please add GROQ_API_KEY "
-            "to your .env file."
-        )
+        try:
+            api_key = st.secrets["GROQ_API_KEY"]
+        except (KeyError, FileNotFoundError):
+            api_key = None
 
     prompt = f"""
 You are a professional cybersecurity analyst working for TheGuard AI.
