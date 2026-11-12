@@ -6,6 +6,9 @@ TheGuard-AI is a machine learning-powered security application designed to detec
 
 It combines anomaly detection, risk scoring, and AI-powered security explanations through an interactive Streamlit dashboard.
 
+🚀 **[Live Demo – Try AccountGuard AI](https://theguard-ai-mm3kqxycxlxqkqhskuhkmy.streamlit.app/)**
+
+
 ## 🚀 Features
 
 - **Machine Learning Detection:** Uses Isolation Forest to identify unusual activity.
