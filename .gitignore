@@ -1,0 +1,15 @@
+
+venv312/
+
+# API keys and secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+
+# IDE
+.vscode/
