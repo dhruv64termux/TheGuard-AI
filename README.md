@@ -79,6 +79,7 @@ It combines anomaly detection, risk scoring, and AI-powered security explanation
 **Dhruv Rajpurohit**
 
 - GitHub: [@dhruv64termux](https://github.com/dhruv64termux)
+- LinkedIn: [Dhruv Rajpurohit](https://www.linkedin.com/in/dhruv-rajpurohit-622836359/)
 
 ---
 
