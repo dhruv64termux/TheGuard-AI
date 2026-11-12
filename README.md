@@ -23,7 +23,7 @@ It combines anomaly detection, risk scoring, and AI-powered security explanation
 - NumPy
 - Scikit-learn
 - Plotly
-- Grok AI (xAI API)
+- Groq API (AI Integration)
 - OpenAI Python SDK
 - Python-dotenv
   
