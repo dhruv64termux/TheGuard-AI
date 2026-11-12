@@ -23,9 +23,10 @@ It combines anomaly detection, risk scoring, and AI-powered security explanation
 - NumPy
 - Scikit-learn
 - Plotly
-- OpenAI API
+- Grok AI (xAI API)
+- OpenAI Python SDK
 - Python-dotenv
-
+  
 ## ⚙️ Installation and Setup
 
 1. Clone the repository:
